@@ -37,18 +37,25 @@ Sensai is a next-generation career optimization platform that leverages Google�
 **Prerequisites:**
 
 1.Node.js 15
+
 2.A Neon DB account (PostgreSQL)
+
 3.Clerk API Keys
+
 4.Google Gemini API Key
 
 ##**⚙️ Installation**
 ---
 1.Clone the repository: git clone https://github.com/nigamchaurasiya800-wq/AI-Powered-Career-Counsellor-SENSAI
+
 2.Install dependencies: npm install
+
 3.Set up Environment Variables: DATABASE_URL=your_postgresql_url
   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_pub_keyCLERK_SECRET_KEY=your_clerk_secret_key
   GEMINI_API_KEY=your_gemini_api_key
+  
 4.Run database migrations: npx prisma generate npx prisma migrate dev
+
 5.Start the development server:npm run dev
 
 **📄 License**
