@@ -5,8 +5,8 @@ Sensai is a next-generation career optimization platform that leverages Google�
 **✨ Pro Features**
 
 **📊 Industry Intelligence**
-*Weekly Pulse: Automated background jobs (Inngest) fetch the latest market outlook, salary benchmarks, and trending skills.
-*Data Visualization: Interactive charts powered by Recharts to visualize your career growth and market position.
+* Weekly Pulse: Automated background jobs (Inngest) fetch the latest market outlook, salary benchmarks, and trending skills.
+* Data Visualization: Interactive charts powered by Recharts to visualize your career growth and market position.
 
 **📝 AI Resume & Cover Letter**
 
