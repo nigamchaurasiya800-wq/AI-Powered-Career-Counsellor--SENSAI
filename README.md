@@ -46,7 +46,7 @@ Sensai is a next-generation career optimization platform that leverages Google�
 
 ##**⚙️ Installation**
 ---
-1.Clone the repository: git clone https://github.com/nigamchaurasiya800-wq/AI-Powered-Career-Counsellor-SENSAI
+1.Clone the repository: git clone https://github.com/nigamchaurasiya800-wq/AI-Powered-Career-Counsellor--SENSAI
 
 2.Install dependencies: npm install
 
